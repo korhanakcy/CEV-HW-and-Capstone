@@ -1,3 +1,3 @@
 # CEV-HW
 
-Burası CEV ödevleri için hazırlanmıştır.
+Burası Coşkunöz Eğitim Vakfı Veri Bilimci Yetiştirme Programı kapsamında hazırlanmış olup ödevler ve Capstone Projelerin yüklenmesi için hazırlanmıştır.
